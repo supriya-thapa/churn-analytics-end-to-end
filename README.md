@@ -10,3 +10,8 @@
 
 
 <img width="717" height="604" alt="Screenshot 2025-12-21 at 10 56 47 AM" src="https://github.com/user-attachments/assets/cc2542fc-10e6-4689-97d1-f9f14c363239" />
+
+* Overall churn rate is 26.54%
+* Month-to-months customers churnt the most
+* Electronic check has highest churn
+* 
